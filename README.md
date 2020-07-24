@@ -13,7 +13,7 @@
 
 # Google Books Search <!-- omit in toc -->
 
-> Lorem ipsum dolor sit amet.
+> Agile full-stack web application that allows users to search, track and save books for reading list using Google Books library.
 
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
