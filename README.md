@@ -1,26 +1,23 @@
-[contributors-shield]: https://img.shields.io/github/contributors/kkuznets/ProjectURL.svg?style=for-the-badge&color=blueviolet
-[contributors-url]: https://github.com/kkuznets/ProjectURL/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kkuznets/ProjectURL.svg?style=for-the-badge&color=brightgreen
-[forks-url]: https://github.com/kkuznets/ProjectURL/network/members
-[stars-shield]: https://img.shields.io/github/stars/kkuznets/ProjectURL.svg?style=for-the-badge&color=orange
-[stars-url]: https://github.com/kkuznets/ProjectURL/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kkuznets/ProjectURL.svg?style=for-the-badge&color=blue
-[issues-url]: https://github.com/kkuznets/ProjectURL/issues
-[license-shield]: https://img.shields.io/github/license/kkuznets/ProjectURL.svg?style=for-the-badge&color=ff69b4
-[license-url]: https://github.com/kkuznets/ProjectURL/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/kkuznets/google-books-search.svg?style=for-the-badge&color=blueviolet
+[contributors-url]: https://github.com/kkuznets/google-books-search/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kkuznets/google-books-search.svg?style=for-the-badge&color=brightgreen
+[forks-url]: https://github.com/kkuznets/google-books-search/network/members
+[stars-shield]: https://img.shields.io/github/stars/kkuznets/google-books-search.svg?style=for-the-badge&color=orange
+[stars-url]: https://github.com/kkuznets/google-books-search/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kkuznets/google-books-search.svg?style=for-the-badge&color=blue
+[issues-url]: https://github.com/kkuznets/google-books-search/issues
+[license-shield]: https://img.shields.io/github/license/kkuznets/google-books-search.svg?style=for-the-badge&color=ff69b4
+[license-url]: https://github.com/kkuznets/google-books-search/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kkuznets
 
-
-
-
-# ProjectName <!-- omit in toc -->
+# Google Books Search <!-- omit in toc -->
 
 > Lorem ipsum dolor sit amet.
 
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img src="demo.gif" alt="ProjectName Demo"/>
+<img src="client/public/demo.gif" alt="Google Books Search Demo"/>
 
 ## 🚩 Table of Contents <!-- omit in toc -->
 
@@ -28,19 +25,22 @@
 - [🚀 Features](#-features)
 - [🔧 Getting Started](#-getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Pull Request](#pull-request)
 - [💬 Contributing](#-contributing)
 - [📜 License](#-license)
 
 ## 📦 Built With
 
-* [**First Item**](link) : Description
-* [**Second Item**](link) : Description
+-  [React](https://reactjs.org/)
+-  [Express](https://expressjs.com/)
+-  [MongoDB](https://www.mongodb.com/)
+-  [Google Books Api](https://developers.google.com/books)
+-  [Node](https://nodejs.org/en/)
 
 ## 🚀 Features
 
-* First Feature
+-  You can search for a particular book using the Goole Books Api. Whole Internet library at your hand!
+-  You can save the book you like for further reading.
 
 ## 🔧 Getting Started
 
@@ -50,16 +50,12 @@ This product is open source, so you can create a pull request (PR) after you fix
 
 Fork `master` branch into your personal repository. Clone it to local computer. Install node modules.
 
-<img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork the ProjectName"/>
+<img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork the Google Books Search"/>
 
 ```zsh
-$ git clone https://github.com/YOUR-USERNAME/ProjectURL
+$ git clone https://github.com/YOUR-USERNAME/google-books-search
 $ npm install
 ```
-
-### Usage
-
-Lorem Ipsum dolor sit amet
 
 ### Pull Request
 
@@ -69,11 +65,11 @@ For more information, please refer to the Contributing section.
 
 ## 💬 Contributing
 
-* [Code of Conduct](https://github.com/kkuznets/ProjectURL/blob/master/CODE_OF_CONDUCT.md)
-* [Contributing Guideline](https://github.com/kkuznets/ProjectURL/blob/master/CONTRIBUTING.md)
-* [Commit Convention](https://github.com/kkuznets/ProjectURL/blob/master/docs/COMMIT_MESSAGE_CONVENTION.md)
-* [Issue Guidelines](https://github.com/kkuznets/ProjectURL/tree/master/.github/ISSUE_TEMPLATE)
+-  [Code of Conduct](https://github.com/kkuznets/google-books-search/blob/master/CODE_OF_CONDUCT.md)
+-  [Contributing Guideline](https://github.com/kkuznets/google-books-search/blob/master/CONTRIBUTING.md)
+-  [Commit Convention](https://github.com/kkuznets/google-books-search/blob/master/docs/COMMIT_MESSAGE_CONVENTION.md)
+-  [Issue Guidelines](https://github.com/kkuznets/google-books-search/tree/master/.github/ISSUE_TEMPLATE)
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/kkuznets/ProjectURL/blob/master/LICENSE) © [kkuznets](https://github.com/kkuznets).
+This software is licensed under the [MIT](https://github.com/kkuznets/google-books-search/blob/master/LICENSE) © [kkuznets](https://github.com/kkuznets).
