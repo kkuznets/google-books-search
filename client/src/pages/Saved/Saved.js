@@ -59,7 +59,7 @@ class Saved extends Component {
                         New Search
                      </Link>
                      <Link
-                        className='btn btn-default'
+                        className='btn btn-default btn-lg'
                         to='/saved'
                         role='button'
                      >
