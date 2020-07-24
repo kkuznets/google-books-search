@@ -37,7 +37,7 @@ class Results extends Component {
             this.setState({
                books: filterBooks,
             });
-            window.alert(book.volumeInfo.title + 'was saved!');
+            window.alert('Your book was saved!');
          })
          .catch((err) => console.log(err));
    };
