@@ -6,12 +6,6 @@ import { Container } from '../../components/Grid';
 import { Input, FormBtn } from '../../components/Form';
 
 class Search extends Component {
-   state = {
-      title: '',
-      toResults: false,
-      results: [],
-   };
-
    handleInputChange = (event) => {
       const { name, value } = event.target;
       this.setState({
